@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759528429365",
+    "project_id": "plantstore-ba52f",
+    "storage_bucket": "plantstore-ba52f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759528429365:android:2b568d7965b79e9b395e7c",
+        "android_client_info": {
+          "package_name": "com.rizky.plantstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759528429365-i0gfv7ts4e0lkp5mf1bg6m6n3udtmh0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWAeaK-cXevxec94m7uUnklbn-RNEqw-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759528429365-i0gfv7ts4e0lkp5mf1bg6m6n3udtmh0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
